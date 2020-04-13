@@ -1,6 +1,5 @@
 # PBL3-Osciloscopio
-- A ideia do terceiro problema é a construção de oscilóscopio digital, com visualização de dados de um conversor ADC em tempo real.   
-  Por conta da situação de estamos enfrentando, os dados são adquiridos de um arquivo de texto, simulando valores que seriam lidos do conversor ADC.
+- A ideia do terceiro problema é a construção de oscilóscopio digital, com visualização de dados de um conversor ADC em tempo real. Por conta da situação de estamos enfrentando, os dados são adquiridos de um arquivo de texto, simulando valores que seriam lidos do conversor ADC.
 	
 ## Objetivos
 - Compreender a comunicação entre o processador e um barramento;
@@ -21,4 +20,6 @@
 	$ gcc pbl.c -o pbl -lm
  	$ ./pbl
 ```
-	
+## Contribuidores
+@elvisserafim
+@karolynelima
